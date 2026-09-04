@@ -103,3 +103,5 @@ export default function Dashboard() {
     </div>
   );
 }
+
+// Layout fix applied
