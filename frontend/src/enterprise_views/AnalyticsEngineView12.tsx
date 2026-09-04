@@ -18,21 +18,21 @@ export const DashboardAnalyticsPanel12_1: React.FC = () => {
         <h3>Analytics Matrix 12-1</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12001</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -55,21 +55,21 @@ export const DashboardAnalyticsPanel12_2: React.FC = () => {
         <h3>Analytics Matrix 12-2</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12002</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -92,21 +92,21 @@ export const DashboardAnalyticsPanel12_3: React.FC = () => {
         <h3>Analytics Matrix 12-3</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12003</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -129,21 +129,21 @@ export const DashboardAnalyticsPanel12_4: React.FC = () => {
         <h3>Analytics Matrix 12-4</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12004</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -166,21 +166,21 @@ export const DashboardAnalyticsPanel12_5: React.FC = () => {
         <h3>Analytics Matrix 12-5</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12005</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -203,21 +203,21 @@ export const DashboardAnalyticsPanel12_6: React.FC = () => {
         <h3>Analytics Matrix 12-6</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12006</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -240,21 +240,21 @@ export const DashboardAnalyticsPanel12_7: React.FC = () => {
         <h3>Analytics Matrix 12-7</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12007</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -277,21 +277,21 @@ export const DashboardAnalyticsPanel12_8: React.FC = () => {
         <h3>Analytics Matrix 12-8</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12008</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -314,21 +314,21 @@ export const DashboardAnalyticsPanel12_9: React.FC = () => {
         <h3>Analytics Matrix 12-9</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12009</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
@@ -351,21 +351,21 @@ export const DashboardAnalyticsPanel12_10: React.FC = () => {
         <h3>Analytics Matrix 12-10</h3>
         <p>Enterprise data visualization and reporting matrix.</p>
       </div>
-      <div className='data-grid-container' style={ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }>
+      <div className='data-grid-container' style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '16px' }}>
         <div className='metric-card'>
           <h4>Throughput</h4>
           <span>99.99% Uptime</span>
         </div>
         <div className='metric-card'>
           <h4>Latency</h4>
-          <span>< 45ms avg</span>
+          <span>&lt; 45ms avg</span>
         </div>
         <div className='metric-card'>
           <h4>Active Users</h4>
           <span>12010</span>
         </div>
       </div>
-      <button className='btn-primary' style={ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }>Generate Report</button>
+      <button className='btn-primary' style={{ marginTop: '20px', padding: '10px 20px', borderRadius: '4px', border: 'none', background: '#0366d6', color: 'white', cursor: 'pointer' }}>Generate Report</button>
     </div>
   );
 };
