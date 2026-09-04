@@ -1,0 +1,9 @@
+{
+  "name": "ai-application-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docker-compose up",
+    "build": "docker-compose build",
+    "test": "pytest backend/tests/"
+  }
+}
